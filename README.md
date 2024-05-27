@@ -1,24 +1,36 @@
 
-<!-- <h2 align="center"> -->
-<!-- </h2>  -->
-
-
-
-
-< Coder Uncle Pic
-<div id="header" align="right">
-<img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> 
-
+<div id="header" align="center">
+    <img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> 
+</div>
 
 <h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | Html - Css |  </h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
-</a> 
- <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" alt="C" width="40" height="40"/> </a> <a href=https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png" alt="OpenCV" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.tensorflow.org/?hl=tr" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="Tensorflow" width="40" height="40"/> </a> </p> </a>
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
- </p>
 
-<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="right">
+    <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Languages and Tools:</b></h2>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.mustafayemural.com/wp-content/uploads/2020/09/Cover_C_1.png" alt="C" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C#" width="40" height="40"/>
+    </a> 
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png" alt="OpenCV" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a> 
+    <a href="https://www.tensorflow.org/?hl=tr" target="_blank" rel="noreferrer">
+        <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="Tensorflow" width="40" height="40"/>
+    </a>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
  <div align="center"> 
   <a  target="_blank">
