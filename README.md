@@ -7,7 +7,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
 
-<h3 align="left">Skills: Java | Selenium | JUnit | TestNG | Cucumber | Git - GitHub | Html - Css | JIRA | PostgreSQL | LAMBDA | JDBC | API | </h3>
+<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | Html - Css | | </h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
 </a> 
@@ -76,23 +76,10 @@ jobs:
 -->
 
 
-![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
-
-
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
  
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>My Stats</b>
-
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</p>
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hanzelkaraagac&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/hanzelkaraagac)
 
 
