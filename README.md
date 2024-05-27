@@ -1,10 +1,13 @@
 
+<!-- <h2 align="center"> -->
 <!-- </h2>  -->
 
 
-<!-- Coder Uncle Pic
+
+
+< Coder Uncle Pic
 <div id="header" align="right">
-<img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> -->
+<img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> 
 
 
 <h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | Html - Css |  </h3>
