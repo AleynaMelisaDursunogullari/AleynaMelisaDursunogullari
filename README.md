@@ -28,7 +28,7 @@
         <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="Tensorflow" width="40" height="40"/>
     </a>
       <a href="https://docs.ultralytics.com/tr/models/yolov8/" target="_blank" rel="noreferrer">
-        <img src="https://miro.medium.com/v2/resize:fit:1400/0*iE9zGE5bYZY18Pp0.png" alt="YOLO" width="40" height="40"/>
+        <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" alt="YOLO" width="40" height="40"/>
     </a>
 </div>
 
