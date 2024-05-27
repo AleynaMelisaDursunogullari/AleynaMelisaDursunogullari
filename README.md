@@ -27,6 +27,9 @@
     <a href="https://www.tensorflow.org/?hl=tr" target="_blank" rel="noreferrer">
         <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="Tensorflow" width="40" height="40"/>
     </a>
+      <a href="https://docs.ultralytics.com/tr/models/yolov8/" target="_blank" rel="noreferrer">
+        <img src="https://miro.medium.com/v2/resize:fit:1400/0*iE9zGE5bYZY18Pp0.png" alt="YOLO" width="40" height="40"/>
+    </a>
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
