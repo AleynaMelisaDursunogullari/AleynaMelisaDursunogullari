@@ -3,7 +3,7 @@
     <img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> 
 </div>
 
-<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | YOLO |Html - Css | Microcontroller | </h3>
+<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | YOLO | Html - Css | Microcontroller | </h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
