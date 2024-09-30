@@ -3,7 +3,7 @@
     <img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> 
 </div>
 
-<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | YOLO | Html - Css | Microcontroller | </h3>
+<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | YOLO |  </h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -20,19 +20,14 @@
     </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png" alt="OpenCV" width="40" height="40"/>
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a> 
+    </a>  
     <a href="https://www.tensorflow.org/?hl=tr" target="_blank" rel="noreferrer">
         <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-1911x2048-1m2s54vn.png" alt="Tensorflow" width="40" height="40"/>
     </a>
       <a href="https://docs.ultralytics.com/tr/models/yolov8/" target="_blank" rel="noreferrer">
         <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" alt="YOLO" width="40" height="40"/>
     </a>
-     <a href="https://www.st.com/en/microcontrollers-microprocessors.html" target="_blank" rel="noreferrer">
-        <img src="https://yt3.googleusercontent.com/TU5x7c6XpVksmV-grAjcunyNAaD83HLHv-wS6OVRjDwQc3xzn8SQZNgw3n9U-HxmDe7RNAi41w=s900-c-k-c0x00ffffff-no-rj" alt="STM" width="40" height="40"/>
-    </a>
+    
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
