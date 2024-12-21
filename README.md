@@ -3,7 +3,7 @@
     <img src="https://media3.giphy.com/media/usXZmmgP9Z7kf39fnq/200w.gif?cid=6c09b952tbs2z5ex3oywat9vpiutzbv1dh9g0ysh92pwctxh&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300"/> 
 </div>
 
-<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | YOLO |  </h3>
+<h3 align="left">Skills: Python | C | C# | SQL | OpenCV | Tensorflow | YOLO | CNN | </h3>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -27,6 +27,8 @@
       <a href="https://docs.ultralytics.com/tr/models/yolov8/" target="_blank" rel="noreferrer">
         <img src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" alt="YOLO" width="40" height="40"/>
     </a>
+
+      
     
 </div>
 
@@ -40,6 +42,7 @@
   <a href="https://www.instagram.com/melisa_dursunogullari?utm_source=qr&igsh=ZW1jcmdrZ2V5eXd0" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
   </a>
+
 
 
 
